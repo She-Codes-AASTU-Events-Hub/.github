@@ -1,9 +1,5 @@
 # 🚀 AASTU Events Hub
 
-<div align="center">
-
-![AASTU Events Hub Banner](https://via.placeholder.com/1200x300?text=AASTU+Events+Hub)
-
 ### 🎓 Transforming University Events into Connected Experiences
 
 A modern event management ecosystem designed to connect students, organizers, university clubs, companies, and administrators through one intelligent platform.
