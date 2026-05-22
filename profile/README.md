@@ -1,12 +1,10 @@
-# 🎓 AASTU Events Hub
+# 🎓 SHECODE - AASTU Events Hub
 
 <div align="center">
 
 ### A modern university event management ecosystem connecting students, event organizers, clubs, companies, and administrators.
 
-🌐 **Live Demo:** https://shecode-frontend.vercel.app/
-
-🎥 **Demo Video:** https://drive.google.com/file/d/1fXOxQti42sx192D3FwRG4JRkrOUocTN7/view
+🌐 Live Demo • 🎥 Demo Video
 
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Styling-38BDF8)
