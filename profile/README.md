@@ -1,15 +1,17 @@
-# 🎓 SHECODE - AASTU Events Hub
+# 🎓 AASTU Events Hub
+
 <div align="center">
 
 ### A modern university event management ecosystem connecting students, event organizers, clubs, companies, and administrators.
 
-🌐 Live Demo • 🎥 Demo Video
+[🌐 Live Demo](https://shecode-frontend.vercel.app/) • [🎥 Demo Video](https://drive.google.com/file/d/1fXOxQti42sx192D3FwRG4JRkrOUocTN7/view)
 
-![React](https://img.shields.io/badge/React-Frontend-61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Styling-38BDF8)
-![Vite](https://img.shields.io/badge/Vite-Build%20Tool-646CFF)
-![Responsive](https://img.shields.io/badge/UI-Responsive-success)
-![Dark%20Mode](https://img.shields.io/badge/Theme-Dark%20%26%20Light-purple)
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge\&logo=react)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/API-Express-000000?style=for-the-badge\&logo=express)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+![TailwindCSS](https://img.shields.io/badge/UI-TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwindcss)
+![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge\&logo=vercel)
 
 </div>
 
@@ -17,35 +19,123 @@
 
 ## 🚀 Overview
 
-AASTU Events Hub is a centralized platform designed to simplify university event management. Students can discover and register for events, organizers can create and promote events, and administrators can manage the entire ecosystem through powerful dashboards and analytics.
+AASTU Events Hub is a modern university event management ecosystem that enables students to discover events, register seamlessly, receive notifications, and engage with campus activities. The platform also empowers organizers to create and promote events while giving administrators full control over event approval, organizer verification, analytics, and platform management.
 
-### ✨ Key Features
+---
 
-* 🎓 Student Dashboard
-* 📅 Event Discovery & Registration
-* 🎪 Organizer Portal
-* 🛡️ Admin Dashboard
-* 💳 Event Promotion System
-* 🏆 Gamification & Certificates
-* 🔔 Real-time Notifications
-* 🌙 Dark & Light Mode
-* 📱 Fully Responsive Design
-* 🤝 Community Engagement
+## ✨ Features
 
-### 🛠️ Tech Stack
+### 👨‍🎓 Student Features
+
+* Browse and discover events
+* Event registration system
+* Personalized dashboard
+* QR event tickets
+* Notifications and reminders
+* Saved events
+* Event history
+* Reviews and ratings
+* Achievement badges and certificates
+
+### 🎪 Organizer Features
+
+* Organizer application and verification
+* Event creation and management
+* Sponsor management
+* Partner company showcase
+* Promotion request system
+* Payment receipt submission
+* Registration tracking
+
+### 🛡️ Admin Features
+
+* Approve/reject organizers
+* Verify documents and receipts
+* Manage users and events
+* Revenue tracking
+* Analytics dashboard
+* Notifications management
+* Event moderation
+
+### 🌟 Advanced Features
+
+* Dark & Light Mode
+* Responsive Design
+* Event Microsites
+* Community Discussions
+* Smart Recommendations
+* Volunteer Opportunities
+* Internship Listings
+* Gamification & Leaderboards
+
+---
+
+## 🏗️ Tech Stack
+
+### Frontend
 
 * React
 * Vite
 * Tailwind CSS
-* React Router
+* React Router DOM
 * Framer Motion
 * Axios
 
-### 🔗 Links
+### Backend
 
-* **Live Demo:** https://shecode-frontend.vercel.app/
-* **Demo Video:** https://drive.google.com/file/d/1fXOxQti42sx192D3FwRG4JRkrOUocTN7/view
+* Node.js
+* Express.js
+* MongoDB
+* JWT Authentication
+
+### Design
+
+* Figma
+
+### Deployment
+
+* Vercel
 
 ---
 
-Built with ❤️ by the She Codes AASTU Team.
+## 📂 Project Structure
+
+```text
+src/
+├── assets/
+├── components/
+├── pages/
+├── layouts/
+├── routes/
+├── context/
+├── hooks/
+├── services/
+├── utils/
+└── data/
+```
+
+---
+
+## 🎯 Project Goal
+
+To build a complete university event ecosystem where students, organizers, and administrators can collaborate through a modern, scalable, and user-friendly platform while simulating real-world software development practices.
+
+---
+
+## 🔗 Project Links
+
+🌐 **Live Demo**
+https://shecode-frontend.vercel.app/
+
+🎥 **Demo Video**
+https://drive.google.com/file/d/1fXOxQti42sx192D3FwRG4JRkrOUocTN7/view
+
+---
+
+<div align="center">
+
+### 🚀 Empowering Campus Communities Through Technology
+
+Built with ❤️ by the She Codes AASTU Team
+
+</div>
