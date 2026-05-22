@@ -1,5 +1,4 @@
 # 🎓 SHECODE - AASTU Events Hub
-
 <div align="center">
 
 ### A modern university event management ecosystem connecting students, event organizers, clubs, companies, and administrators.
